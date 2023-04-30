@@ -1,0 +1,35 @@
+body{
+    background-color: aquamarine;
+}
+
+.container{
+    width: 900px;
+    height: auto;
+    background-color: white;
+    margin: auto;
+}
+
+.head{
+    background-color: rgb(201, 201, 201); 
+}
+
+.fixed{
+    background-color: antiquewhite;
+    padding: 3px;
+}
+
+.info{
+    display: flex;
+}
+
+.radio{
+    background-color: grey;
+}
+
+.buttons{
+    display: flex;
+    justify-content: end;
+    padding: 15px;
+    background-color: rgb(201, 201, 201); 
+}
+
